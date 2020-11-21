@@ -1,0 +1,9 @@
+<!DOCType HTML>
+<html>
+
+<title>Inline CSS Example</title>
+<body style="background-color:#F5F5F5;color:#008080;"></body>
+<h1 style="background-color:#008080;color:#F5F5F5;">Inline CSS</h1>
+<p style="color:#333333;">One reason we might use inline CSS are for HTML emails</p>
+
+</html>
